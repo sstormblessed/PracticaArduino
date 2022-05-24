@@ -3,7 +3,7 @@ Prácticas obligatorias de Arduino que estamos haciendo en clase
 
 - [x] - Práctica 1: Encender y apagar un led.
 
-- [ ] - Práctica 2: Encender y apagar 3 leds de forma consecutiva.
+- [x] - Práctica 2: Encender y apagar 3 leds de forma consecutiva.
 
 - [ ] - Práctica 3: Encender y apagar 4 leds de forma consecutiva con sonido.
 
