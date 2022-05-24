@@ -1,7 +1,7 @@
 # PracticaArduino
 Prácticas obligatorias de Arduino que estamos haciendo en clase
 
-- [ ] - Práctica 1: Encender y apagar un led.
+- [x] - Práctica 1: Encender y apagar un led.
 
 - [ ] - Práctica 2: Encender y apagar 3 leds de forma consecutiva.
 
